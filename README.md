@@ -1,6 +1,6 @@
 # 🚚 Global Logistics Dashboard - Power BI Analytics Project
 
-03_Screenshots/Screenshot 2026-04-19 095031.png
+![Main_DashBoard](03_Screenshots/Main_Dashboard.png)
 
 > **A comprehensive end-to-end Power BI solution for logistics operations analytics, tracking 1,169+ orders across multiple hubs, drivers, and vehicles.**
 
