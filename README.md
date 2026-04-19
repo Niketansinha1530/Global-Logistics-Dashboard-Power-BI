@@ -37,7 +37,7 @@ This Power BI dashboard provides comprehensive analytics for a global logistics 
 - Enhance customer satisfaction through delivery insights
 
 ### Project Highlights:
-- **1,169** Total Orders Tracked
+- **27,980** Total Orders Tracked
 - **6** Distribution Hubs Monitored
 - **55** Drivers Analyzed
 - **45** Vehicles Managed
