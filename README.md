@@ -309,76 +309,22 @@ CALCULATE(
 
 ---
 
-## 💻 Installation & Setup
-
-### Prerequisites
-- Power BI Desktop (Latest version recommended)
-- Windows 10 or later
-- Minimum 4GB RAM
-
-### Steps to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/global-logistics-dashboard.git
-   cd global-logistics-dashboard
-   ```
-
-2. **Open the Power BI file**
-   ```
-   Double-click on "Global_Logistics_Dashboard.pbix"
-   ```
-
-3. **Refresh data** (if using sample data)
-   - Click on "Refresh" in the Home ribbon
-   - Ensure data source paths are correctly configured
-
-4. **Explore the dashboard**
-   - Use the navigation buttons on the left sidebar
-   - Apply filters using Year/Month slicers
-   - Click on any visual for cross-filtering
-
-### File Structure
-```
-global-logistics-dashboard/
-│
-├── Global_Logistics_Dashboard.pbix    # Main Power BI file
-├── data/                               # Sample data files
-│   ├── orders.csv
-│   ├── drivers.csv
-│   ├── hubs.csv
-│   ├── vehicles.csv
-│   └── date_table.csv
-├── screenshots/                        # Dashboard images
-│   ├── main_dashboard.png
-│   ├── data_model.png
-│   ├── hubs_view.png
-│   ├── drivers_view.png
-│   └── vehicles_view.png
-├── documentation/
-│   ├── DAX_Measures.md                # All DAX formulas
-│   └── Data_Dictionary.md             # Column descriptions
-└── README.md                          # This file
-```
-
----
-
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main_dashboard.png)
+![Main Dashboard](03_Screenshots/Main_Dashboard.png)
 
 ### Data Model
-![Data Model](screenshots/data_model.png)
+![Data Model](03_Screenshots/Relationship_Diagram.png)
 
 ### Hubs Overview
-![Hubs View](screenshots/hubs_view.png)
+![Hubs View](03_Screenshots/Hub_Dashboard.png)
 
 ### Drivers Performance
-![Drivers View](screenshots/drivers_view.png)
+![Drivers View](03_Screenshots/Driver_Dashboard.png)
 
 ### Vehicles Management
-![Vehicles View](screenshots/vehicles_view.png)
+![Vehicles View](03_Screenshots/Vehicle_Dashboard.png)
 
 ---
 
